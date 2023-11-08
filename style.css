@@ -27,6 +27,12 @@ html {
 }
 
 body {
+    background-image: url('/images/banner.jpg');
+    background-size: 100% 100%;
+}
+
+
+body {
     background-image: url(/images/banner.jpg);
     background-size: cover;
 }
