@@ -74,7 +74,7 @@ body {
         .profile-image {
             width: 150px;
             height: 150px;
-            background: url('/images/profile-image.jpg') center;
+            background: url('/IMG-1.jpg') center;
             background-size: cover;
             border-radius: 50%;
             border: 10px solid var(--primary-bg);
